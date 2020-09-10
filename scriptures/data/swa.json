@@ -1,0 +1,391 @@
+{
+    "testaments": {
+        "bofm": {
+            "books": {
+                "1-ne": {
+                    "title": "1 Nefi",
+                    "shortTitle": "1 Ne."
+                },
+                "2-ne": {
+                    "title": "2 Nefi",
+                    "shortTitle": "2 Ne."
+                },
+                "jacob": {
+                    "title": "Yakobo",
+                    "shortTitle": "Yak. (KM)"
+                },
+                "enos": {
+                    "title": "Enoshi",
+                    "shortTitle": "Eno."
+                },
+                "jarom": {
+                    "title": "Yaromu",
+                    "shortTitle": "Yar."
+                },
+                "omni": {
+                    "title": "Omni",
+                    "shortTitle": "Omni"
+                },
+                "w-of-m": {
+                    "title": "Maneno ya Mormoni",
+                    "shortTitle": "M. ya Morm."
+                },
+                "mosiah": {
+                    "title": "Mosia",
+                    "shortTitle": "Mos."
+                },
+                "alma": {
+                    "title": "Alma",
+                    "shortTitle": "Alma"
+                },
+                "hel": {
+                    "title": "Helamani",
+                    "shortTitle": "Hel."
+                },
+                "3-ne": {
+                    "title": "3 Nefi",
+                    "shortTitle": "3 Ne."
+                },
+                "4-ne": {
+                    "title": "4 Nefi",
+                    "shortTitle": "4 Ne."
+                },
+                "morm": {
+                    "title": "Mormoni",
+                    "shortTitle": "Morm."
+                },
+                "ether": {
+                    "title": "Etheri",
+                    "shortTitle": "Eth."
+                },
+                "moro": {
+                    "title": "Moroni",
+                    "shortTitle": "Moro."
+                }
+            },
+            "title": "Kitabu cha Mormoni"
+        },
+        "dc-testament": {
+            "books": {
+                "dc": {
+                    "title": "Mafundisho na Maagano",
+                    "shortTitle": "M&M"
+                },
+                "od": {
+                    "title": "Tamko Rasmi",
+                    "shortTitle": "TR",
+                    "chapters": {
+                        "1": {
+                            "title": "Tamko Rasmi 1",
+                            "shortTitle": "TR—1"
+                        },
+                        "2": {
+                            "title": "Tamko Rasmi 2",
+                            "shortTitle": "TR—2"
+                        }
+                    }
+                }
+            },
+            "title": "Mafundisho na Maagano",
+            "shortTitle": "M&M"
+        },
+        "nt": {
+            "books": {
+                "matt": {
+                    "title": "Mathayo",
+                    "shortTitle": "Mt."
+                },
+                "mark": {
+                    "title": "Marko",
+                    "shortTitle": "Mk."
+                },
+                "luke": {
+                    "title": "Luka",
+                    "shortTitle": "Lk."
+                },
+                "john": {
+                    "title": "Yohana",
+                    "shortTitle": "Yn."
+                },
+                "acts": {
+                    "title": "Matendo ya Mitume",
+                    "shortTitle": "Mdo."
+                },
+                "rom": {
+                    "title": "Warumi",
+                    "shortTitle": "Rum."
+                },
+                "1-cor": {
+                    "title": "1 Wakorintho",
+                    "shortTitle": "1 Kor."
+                },
+                "2-cor": {
+                    "title": "2 Wakorintho",
+                    "shortTitle": "2 Kor."
+                },
+                "gal": {
+                    "title": "Wagalatia",
+                    "shortTitle": "Gal."
+                },
+                "eph": {
+                    "title": "Waefeso",
+                    "shortTitle": "Efe."
+                },
+                "philip": {
+                    "title": "Wafilipi",
+                    "shortTitle": "Flp."
+                },
+                "col": {
+                    "title": "Wakolosai",
+                    "shortTitle": "Kol."
+                },
+                "1-thes": {
+                    "title": "1 Wathesalonike",
+                    "shortTitle": "1 The."
+                },
+                "2-thes": {
+                    "title": "2 Wathesalonike",
+                    "shortTitle": "2 The."
+                },
+                "1-tim": {
+                    "title": "1 Timotheo",
+                    "shortTitle": "1 Tim."
+                },
+                "2-tim": {
+                    "title": "2 Timotheo",
+                    "shortTitle": "2 Tim."
+                },
+                "titus": {
+                    "title": "Tito",
+                    "shortTitle": "Tit."
+                },
+                "philem": {
+                    "title": "Filemoni",
+                    "shortTitle": "Flm."
+                },
+                "heb": {
+                    "title": "Waebrania",
+                    "shortTitle": "Ebr."
+                },
+                "james": {
+                    "title": "Yakobo",
+                    "shortTitle": "Yak. (Bib.)"
+                },
+                "1-pet": {
+                    "title": "1 Petro",
+                    "shortTitle": "1 Pet."
+                },
+                "2-pet": {
+                    "title": "2 Petro",
+                    "shortTitle": "2 Pet."
+                },
+                "1-jn": {
+                    "title": "1 Yohana",
+                    "shortTitle": "1 Yoh."
+                },
+                "2-jn": {
+                    "title": "2 Yohana",
+                    "shortTitle": "2 Yoh."
+                },
+                "3-jn": {
+                    "title": "3 Yohana",
+                    "shortTitle": "3 Yoh."
+                },
+                "jude": {
+                    "title": "Yuda",
+                    "shortTitle": "Yuda"
+                },
+                "rev": {
+                    "title": "Ufunuo",
+                    "shortTitle": "Ufu."
+                }
+            },
+            "title": "Agano Jipya"
+        },
+        "ot": {
+            "books": {
+                "gen": {
+                    "title": "Mwanzo",
+                    "shortTitle": "Mwa."
+                },
+                "ex": {
+                    "title": "Kutoka",
+                    "shortTitle": "Ku."
+                },
+                "lev": {
+                    "title": "Walawi",
+                    "shortTitle": "Law."
+                },
+                "num": {
+                    "title": "Hesabu",
+                    "shortTitle": "Hes."
+                },
+                "deut": {
+                    "title": "Kumbukumbu la Torati",
+                    "shortTitle": "Kum."
+                },
+                "josh": {
+                    "title": "Joshua",
+                    "shortTitle": "Yos."
+                },
+                "judg": {
+                    "title": "Waamuzi",
+                    "shortTitle": "Amu."
+                },
+                "ruth": {
+                    "title": "Ruthu",
+                    "shortTitle": "Rut."
+                },
+                "1-sam": {
+                    "title": "1 Samweli",
+                    "shortTitle": "1 Sam."
+                },
+                "2-sam": {
+                    "title": "2 Samweli",
+                    "shortTitle": "2 Sam."
+                },
+                "1-kgs": {
+                    "title": "1 Wafalme",
+                    "shortTitle": "1 Fal."
+                },
+                "2-kgs": {
+                    "title": "2 Wafalme",
+                    "shortTitle": "2 Fal."
+                },
+                "1-chr": {
+                    "title": "1 Mambo ya Nyakati",
+                    "shortTitle": "1 Nya."
+                },
+                "2-chr": {
+                    "title": "2 Mambo ya Nyakati",
+                    "shortTitle": "2 Nya."
+                },
+                "ezra": {
+                    "title": "Ezra",
+                    "shortTitle": "Ezra"
+                },
+                "neh": {
+                    "title": "Nehemia",
+                    "shortTitle": "Neh."
+                },
+                "esth": {
+                    "title": "Esta",
+                    "shortTitle": "Esta"
+                },
+                "job": {
+                    "title": "Ayubu",
+                    "shortTitle": "Ayu."
+                },
+                "ps": {
+                    "title": "Zaburi",
+                    "shortTitle": "Zab."
+                },
+                "prov": {
+                    "title": "Mithali",
+                    "shortTitle": "Mit."
+                },
+                "eccl": {
+                    "title": "Mahubiri",
+                    "shortTitle": "Mh."
+                },
+                "song": {
+                    "title": "Wimbo wa Suleimani",
+                    "shortTitle": "Wim."
+                },
+                "isa": {
+                    "title": "Isaya",
+                    "shortTitle": "Isa."
+                },
+                "jer": {
+                    "title": "Yeremia",
+                    "shortTitle": "Yer."
+                },
+                "lam": {
+                    "title": "Maombolezo",
+                    "shortTitle": "Omb."
+                },
+                "ezek": {
+                    "title": "Ezekieli",
+                    "shortTitle": "Eze."
+                },
+                "dan": {
+                    "title": "Danieli",
+                    "shortTitle": "Dan."
+                },
+                "hosea": {
+                    "title": "Hosea",
+                    "shortTitle": "Hos."
+                },
+                "joel": {
+                    "title": "Yoeli",
+                    "shortTitle": "Yoe."
+                },
+                "amos": {
+                    "title": "Amosi",
+                    "shortTitle": "Amo."
+                },
+                "obad": {
+                    "title": "Obadia",
+                    "shortTitle": "Oba."
+                },
+                "jonah": {
+                    "title": "Yona",
+                    "shortTitle": "Yon."
+                },
+                "micah": {
+                    "title": "Mika",
+                    "shortTitle": "Mik."
+                },
+                "nahum": {
+                    "title": "Nahamu",
+                    "shortTitle": "Nah."
+                },
+                "hab": {
+                    "title": "Habakuki",
+                    "shortTitle": "Hab."
+                },
+                "zeph": {
+                    "title": "Sefania",
+                    "shortTitle": "Sef."
+                },
+                "hag": {
+                    "title": "Hagai",
+                    "shortTitle": "Hag."
+                },
+                "zech": {
+                    "title": "Zakaria",
+                    "shortTitle": "Zek."
+                },
+                "mal": {
+                    "title": "Malaki",
+                    "shortTitle": "Mal."
+                }
+            },
+            "title": "Agano la Kale"
+        },
+        "pgp": {
+            "books": {
+                "a-of-f": {
+                    "title": "Makala ya Imani",
+                    "shortTitle": "M ya I"
+                },
+                "abr": {
+                    "title": "Ibrahimu",
+                    "shortTitle": "Ibr."
+                },
+                "js-h": {
+                    "title": "Joseph Smith—Historia ya",
+                    "shortTitle": "JS—H"
+                },
+                "js-m": {
+                    "title": "Joseph Smith—Mathayo",
+                    "shortTitle": "JS—M"
+                },
+                "moses": {
+                    "title": "Musa"
+                }
+            },
+            "title": "Lulu ya Thamani Kuu"
+        }
+    }
+}
